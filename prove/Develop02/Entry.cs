@@ -46,5 +46,4 @@ public class Entry
     {
         return $"{_date}|{_prompt}|{_response}";
     }
-
 }
